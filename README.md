@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **akash.dev.personal@gmail.com**
 
-- 📄 Know about my experiences [Upwork](https://www.upwork.com/freelancers/~01ed1f6118f6b2a598?viewMode=1)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/akash-bambhaniya/), [Upwork](https://www.upwork.com/freelancers/~01ed1f6118f6b2a598?viewMode=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
