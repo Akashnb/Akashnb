@@ -6,15 +6,12 @@
 
 - 🔭 I’m currently working on **React.js projects**
 
-- 👨‍💻 All of my projects are available at [Upwork](https://www.upwork.com/freelancers/~01ed1f6118f6b2a598?viewMode=1)
+- 👨‍💻 Personal portfolio site https://akashb.in/
 
 - 💬 Ask me about **HTML, CSS, Javascript, React**
 
 - 📫 How to reach me **akash.dev.personal@gmail.com**
-
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/akash-bambhaniya/), [Upwork](https://www.upwork.com/freelancers/~01ed1f6118f6b2a598?viewMode=1)
   
-- Personal portfolio site https://akashb.in/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
